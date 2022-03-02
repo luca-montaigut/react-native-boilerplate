@@ -2,7 +2,7 @@
 
 ## Folder structure
 
-```
+```sh
 src
 ├── assets
 ├── components
@@ -64,7 +64,7 @@ but you can also switch the theme manually.
 
 You can use your the custom hook "useTheme" like this :
 
-```
+```jsx
 // Component.jsx
 
 const Component = props => {
